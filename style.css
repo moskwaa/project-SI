@@ -14,7 +14,7 @@ sans-serif;
 header {
   display: flex;
   background-color: white;
-  height: 100vh;
+  height: 115vh;
   overflow: hidden;
   max-width: 1920px;
   flex-wrap: wrap;
@@ -36,7 +36,7 @@ header div.welcome {
   width: 40%;
   font-family: "Saira Condensed", sans-serif;
   color: black;
-  font-size: 40px;
+  font-size: 80px;
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;
@@ -54,13 +54,13 @@ header h2 {
 
 header button {
   font-family: "Saira", sans-serif;
-  font-weight: 30px;
-  line-height: 32px;
+  font-weight: 22px;
+  line-height: 52px;
   padding: 0 20px;
   text-transform: uppercase;
   color: black;
   background-color: transparent;
-  font-size: 14px;
+  font-size: 20px;
   border: 2px solid black;
 }
 
@@ -118,7 +118,7 @@ section.features-clearfix {
 }
 
 .contact button {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 40px;
   background-color: black;
   color: white;
