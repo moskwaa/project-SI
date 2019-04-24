@@ -66,6 +66,7 @@ header button {
 
 /* sekcja ludziki */
 section.features-clearfix {
+  padding: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -129,7 +130,6 @@ section.features-clearfix {
   padding: 30px;
   display: flex;
   align-content: center;
-
   justify-content: space-between;
   flex-wrap: wrap;
 }
