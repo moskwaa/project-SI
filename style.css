@@ -133,6 +133,9 @@ section.features-clearfix {
   padding: 10px 0;
   color: white;
   font-family: saria condensed, sans-seif;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
 }
 
 .clearfix {
